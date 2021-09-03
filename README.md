@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+GREETINGS FELLOW HUMANS!
+
+MY NAME IS garrett AND IM TOTALLY NOT A ROBOT! 
